@@ -24,3 +24,6 @@ This tool provides football scouts with:
 
 **Get Started:**
 Use the sidebar to navigate to the different sections of the app and start exploring player data and predictions.
+
+
+Disclaimer: The API Key was deleted for security reasons
