@@ -2,7 +2,7 @@ from openai import OpenAI
 
 def strenght_weakness_agent(player_data):
     #API key was deleted for security reasons
-    client = OpenAI(api_key='')
+    client = OpenAI()
     completion = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
