@@ -26,4 +26,6 @@ This tool provides football scouts with:
 Use the sidebar to navigate to the different sections of the app and start exploring player data and predictions.
 
 
-Disclaimer: The API Key was deleted for security reasons
+Please try the app here:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://footballplayerpotentialprediction-7pkwahipedhrt9nhlwxafz.streamlit.app/)
