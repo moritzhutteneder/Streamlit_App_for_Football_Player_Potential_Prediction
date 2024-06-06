@@ -21,7 +21,7 @@ def strenght_weakness_agent(player_data):
     return completion.choices[0].message.content
 
 def potential_vs_rating(data):
-    client = OpenAI(api_key='sk-proj-B1jTlmrEW2uEOHyYWiQrT3BlbkFJ16jfcE4H4shhCnm70iVG')
+    client = OpenAI()
     completion = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
