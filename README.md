@@ -1,5 +1,3 @@
-# s1_moritz_huetteneder
-
 #### This app is designed to assist football scouts in evaluating and predicting the future potential of soccer players.
 By leveraging machine learning models and advanced data analytics, scouts can make informed decisions about player development and recruitment.
 
