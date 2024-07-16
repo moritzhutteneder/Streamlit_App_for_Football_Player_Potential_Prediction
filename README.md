@@ -1,3 +1,7 @@
+Please try the app here:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://footballplayerpotentialprediction-7pkwahipedhrt9nhlwxafz.streamlit.app/)
+
 #### This app is designed to assist football scouts in evaluating and predicting the future potential of soccer players.
 By leveraging machine learning models and advanced data analytics, scouts can make informed decisions about player development and recruitment.
 
@@ -19,12 +23,3 @@ This tool provides football scouts with:
 - Objective insights into player potential.
 - Data-driven analysis for better decision-making.
 - Enhanced ability to identify promising talent.
-
-
-**Get Started:**
-Use the sidebar to navigate to the different sections of the app and start exploring player data and predictions.
-
-
-Please try the app here:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://footballplayerpotentialprediction-7pkwahipedhrt9nhlwxafz.streamlit.app/)
