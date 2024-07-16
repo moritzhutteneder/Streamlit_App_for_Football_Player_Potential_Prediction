@@ -7,11 +7,12 @@ By leveraging machine learning models and advanced data analytics, scouts can ma
 - **Strengths and Weaknesses Analysis:** Get detailed insights into the strengths and weaknesses of players.
 - **Feature Importance:** Understand the importance of different attributes in predicting player potential.
 
-**How to Use:**
-- Navigate through different sections using the sidebar.
-- Explore player data in the Data Exploration section to visualize and analyze attributes.
-- Input player attributes manually in the Predictions section to get potential predictions.
-- View the importance of different features in the Feature Importance section.
+## How to Use
+1. **API Key:** Obtain an API key from the specified provider and include it in the app settings. 
+2. **Navigate:** Use the sidebar to navigate through different sections of the app.
+3. **Data Exploration:** Explore player data in the Data Exploration section to visualize and analyze attributes.
+4. **Predictions:** Input player attributes manually in the Predictions section to get potential predictions.
+5. **Feature Importance:** View the importance of different features in the Feature Importance section.
 
 **Why Use This App?**
 This tool provides football scouts with:
